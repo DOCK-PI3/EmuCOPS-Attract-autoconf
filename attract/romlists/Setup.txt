@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Audio Settings;Audio Settings;Setup;;;;;;;;;;;;;;
+Configuration Editor;Configuration Editor;Setup;;;;;;;;;;;;;;
+Generate Favorites Romlist;Generate Favorites Romlist;Setup;;;;;;;;;;;;;;
+Raspberry Pi Setup;Raspberry Pi Setup;Setup;;;;;;;;;;;;;;
+Reboot;Reboot;Setup;;;;;;;;;;;;;;
+Retroarch;Retroarch;Setup;;;;;;;;;;;;;;
+Shutdown;Shutdown;Setup;;;;;;;;;;;;;;
