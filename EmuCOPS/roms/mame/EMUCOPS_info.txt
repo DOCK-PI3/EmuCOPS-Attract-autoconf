@@ -1,1 +1,5 @@
 BY EMULOS TEAM
+
+core default: mame2003 plus
+
+romset: 0.78

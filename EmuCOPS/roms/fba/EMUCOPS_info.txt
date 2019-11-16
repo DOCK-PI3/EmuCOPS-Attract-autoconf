@@ -1,1 +1,5 @@
 BY EMULOS TEAM
+
+core default: fbalpha
+
+romset: 0.44.

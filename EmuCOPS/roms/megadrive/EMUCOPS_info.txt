@@ -1,1 +1,3 @@
 BY EMULOS TEAM
+
+core default: genesis plus gx

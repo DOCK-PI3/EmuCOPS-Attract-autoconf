@@ -1,1 +1,5 @@
 BY EMULOS TEAM
+
+core default: fbneo
+
+romset: neogeo 
