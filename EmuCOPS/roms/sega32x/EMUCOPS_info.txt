@@ -1,3 +1,0 @@
-BY EMULOS TEAM
-
-core default: picodrive
